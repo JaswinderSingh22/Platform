@@ -1,0 +1,9 @@
+1. Variables
+2. Maps - similar to javascript arrays list of key value pairs.
+3. Nesting
+4. Partials
+5. Function: It should be used to compute values or return values 
+6. Mixins: It should define styles.
+        Example: Choosing between light and dark theme.
+7. Extensions
+8. Operations
