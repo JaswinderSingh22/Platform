@@ -6,4 +6,7 @@
 6. Mixins: It should define styles.
         Example: Choosing between light and dark theme.
 7. Extensions
-8. Operations
+8. Operations: In scss we can mix type but in css we can
+            example: width: 80%-40%  is valid in both css and scss 
+            but width: 80%-400px is only valid in css
+
